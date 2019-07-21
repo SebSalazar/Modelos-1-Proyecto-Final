@@ -3,5 +3,7 @@ Codigos y video del proyecto final sobre envio de datos de temperatura a través
 
 # Integrantes
 Sebastian Salazar - 20172020016
+
 Jheisson Fortich
+
 Nicolas Baena 
